@@ -1,11 +1,11 @@
 # Team "Yahallo" Spring 2022 CS180 Software Construction Project
 
 ### Team Members
+* Abanob Wahba
 * Andre Amante
 * Kobe Braga
 * Roy Feng
 * Joseph Tham
-* Abanob Wahba
 
 ### Dataset: Air Quality
 * https://www.kaggle.com/epa/air-quality
